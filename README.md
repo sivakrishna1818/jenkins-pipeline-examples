@@ -7,4 +7,6 @@ This repository contains example declarative pipelines and shared libraries (fou
 
 This example pipeline reads the pom.xml file in the project's root directory and outputs the project's version number using echo.
 
+
+welcome
 **Note**: This pipeline example requires that the **Pipeline Utility Steps** plugin be installed in order to run.
