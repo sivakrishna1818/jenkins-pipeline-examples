@@ -7,7 +7,7 @@ pipeline {
    stages {
       stage('Say Hello') {
          steps {
-            echo 'siva!'
+            echo 'krishna!'
          }
       }
    }
