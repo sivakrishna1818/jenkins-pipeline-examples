@@ -25,5 +25,10 @@ pipeline {
                 sh './jenkins/scripts/deliver.sh'
             }
         }
+        stage('Say Hello') {
+         steps {
+            echo 'sivakrishna!'
+         }
+      }
     }
 }
