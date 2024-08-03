@@ -27,7 +27,7 @@ pipeline {
         }
         stage('Say Hello') {
          steps {
-            echo 'sivakrishna!'
+            echo 'siva!'
          }
       }
     }
