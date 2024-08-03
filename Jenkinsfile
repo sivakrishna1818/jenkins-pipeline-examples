@@ -30,5 +30,10 @@ pipeline {
             echo 'siva!'
          }
       }
+        stage('Say Hello') {
+         steps {
+            echo 'Gopalakrishna!'
+         }
+      }
     }
 }
